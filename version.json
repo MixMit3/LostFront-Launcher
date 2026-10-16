@@ -1,0 +1,10 @@
+{
+  "launcherVersion": "2.0.0",
+  "uiVersion": "1.0.0",
+  "minSupportedVersion": "2.0.0",
+  "fileUrl": "https://github.com/MixMit3/LostFront-Launcher/releases/latest/download/LostFrontLauncher-2.0.0.zip",
+  "sha256": "ПОСЛЕ_СБОРКИ_ПОДСТАВИТЬ",
+  "size": 0,
+  "mandatory": false,
+  "notes": "LostFront Launcher 2.0.0 — нативная установка Minecraft 1.20.1 + Forge 47.4.10, автообновление и новости."
+}

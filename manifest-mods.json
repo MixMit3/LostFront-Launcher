@@ -1,0 +1,176 @@
+{
+  "pack": "lostfront",
+  "mcVersion": "1.20.1",
+  "modLoader": "forge",
+  "updated": "2026-10-16",
+  "mods": [
+    {
+      "file": "architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "size": 580602,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/architectury-9.2.14-forge.jar"
+    },
+    {
+      "file": "Blood N' Particles v1.4.0 - Forge 1.20.1.jar",
+      "sha256": "061f6f14e8e541f2cb7182b53cf2476127d418d01e43c444a3c29ed457d2296b",
+      "size": 850926,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Blood%20N'%20Particles%20v1.4.0%20-%20Forge%201.20.1.jar"
+    },
+    {
+      "file": "classmod-1.6.0.jar",
+      "sha256": "175585a4225f9999893a5dafd1cbf32f30e27d490623168920e617929bce2663",
+      "size": 800414,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/classmod-1.6.0.jar"
+    },
+    {
+      "file": "cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "size": 1181413,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/cloth-config-11.1.136-forge.jar"
+    },
+    {
+      "file": "curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+      "size": 398066,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/curios-forge-5.14.1+1.20.1.jar"
+    },
+    {
+      "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920",
+      "size": 402345,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar"
+    },
+    {
+      "file": "entityculling-forge-1.10.5-mc1.20.1.jar",
+      "sha256": "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa",
+      "size": 1590221,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/entityculling-forge-1.10.5-mc1.20.1.jar"
+    },
+    {
+      "file": "ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+      "size": 123034,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "file": "fzzy_config-0.7.6+1.20.1+forge.jar",
+      "sha256": "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e",
+      "size": 2374667,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/fzzy_config-0.7.6+1.20.1+forge.jar"
+    },
+    {
+      "file": "geckolib-forge-1.20.1-4.8.4.jar",
+      "sha256": "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747",
+      "size": 1038209,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/geckolib-forge-1.20.1-4.8.4.jar"
+    },
+    {
+      "file": "gjeb-forge-1.20.1-1.3.0.39.jar",
+      "sha256": "b0a132f9e911c02e0e18f0a645c994e71e8e10950e0b4f6b95e3b128ddc5039c",
+      "size": 80211,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/gjeb-forge-1.20.1-1.3.0.39.jar"
+    },
+    {
+      "file": "kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "size": 7442998,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/kotlinforforge-4.12.0-all.jar"
+    },
+    {
+      "file": "Ksyxis-1.4.3.jar",
+      "sha256": "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9",
+      "size": 26968,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Ksyxis-1.4.3.jar"
+    },
+    {
+      "file": "mm_armor-1.1.0-forge-1.20.1 — копия.jar",
+      "sha256": "f9e401dfafb11353b21d78aebae73564447ba164b86da43ecdd72137be67d8e9",
+      "size": 19489868,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/mm_armor-1.1.0-forge-1.20.1%20—%20копия.jar"
+    },
+    {
+      "file": "optileaves-1.20.x-1.2.jar",
+      "sha256": "9b01c629a47057cf9b22adfdb005d4cfd7886dfdfd8b8a37d18f19652a4e6a30",
+      "size": 20415,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/optileaves-1.20.x-1.2.jar"
+    },
+    {
+      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+      "size": 181437,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "file": "Saros-Player-Ragdoll-Forge-1.20.1-2.0.6.jar",
+      "sha256": "672c4e99afc0031bdf7639d994f9e2ad4eb5290f7329a49ae635a149ea0113cb",
+      "size": 7438590,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Saros-Player-Ragdoll-Forge-1.20.1-2.0.6.jar"
+    },
+    {
+      "file": "SBW-Drone-Warfare-1.20.1-Forge-1.0.4.jar",
+      "sha256": "179680ed077c1168a6544473b53f3b519bdb908eca4cc682d62fb8ca36de707b",
+      "size": 20487880,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/SBW-Drone-Warfare-1.20.1-Forge-1.0.4.jar"
+    },
+    {
+      "file": "simpletextoverlay-1.20.1-5.2.2.5-FORGE.jar",
+      "sha256": "fe5d150fede1312ef5a1d80c5c5252d0dbf1d13ff71e7ef03da438758b638dad",
+      "size": 386150,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/simpletextoverlay-1.20.1-5.2.2.5-FORGE.jar"
+    },
+    {
+      "file": "starlight-1.1.2+forge.1cda73c.jar",
+      "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
+      "size": 110583,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/starlight-1.1.2+forge.1cda73c.jar"
+    },
+    {
+      "file": "superbwarfare-0.8.9.2-mc1.20.1-65d985a64-all.jar",
+      "sha256": "559930003f638080de648a8621821d785158768c3f69a762094ef4c8d3c4cc12",
+      "size": 42118965,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/superbwarfare-0.8.9.2-mc1.20.1-65d985a64-all.jar"
+    },
+    {
+      "file": "Tab-Stats-1.20-1.0.5.jar",
+      "sha256": "d7bfb7d75a1807d7633a97de7e418f2d6ea54b1397085f90aa6026c97f9b759f",
+      "size": 107129,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Tab-Stats-1.20-1.0.5.jar"
+    },
+    {
+      "file": "tacmove-1.3.0-forge-1.20.1.jar",
+      "sha256": "a413f595843243b1cf54e250fa0422ba1466f34e8c330ead191b921ca124129c",
+      "size": 123327,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/tacmove-1.3.0-forge-1.20.1.jar"
+    },
+    {
+      "file": "tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+      "sha256": "b7d7c81ecc057a6b00977380d86c0b1730067f7403dca50c88d6aee98ca6aefa",
+      "size": 715179,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/tl_skin_cape_forge_1.20_1.20.1-1.32.jar"
+    },
+    {
+      "file": "voicechat-forge-1.20.1-2.6.22 (1).jar",
+      "sha256": "727d31c11905be6af05686c619dd62a1ed4e451c47670cf5e9804c1ac8871386",
+      "size": 4923439,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/voicechat-forge-1.20.1-2.6.22%20(1).jar"
+    },
+    {
+      "file": "walkietalkie-forge-1.20.1-1.3.0.jar",
+      "sha256": "4fdba55afc3b06eb7f646527437d1233a8f556ce3ad5712d8781f37525c7189b",
+      "size": 169451,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/walkietalkie-forge-1.20.1-1.3.0.jar"
+    },
+    {
+      "file": "wrbcapturepoint-0.0.3.jar",
+      "sha256": "a81c2dd7c1af3afccd06455c5bcb8341b6374feaf331e96d79f58b946c1150e7",
+      "size": 79313,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/wrbcapturepoint-0.0.3.jar"
+    },
+    {
+      "file": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "sha256": "9b39cd06094d7631c8614d172d0ba8399c71c981530af417f12a7909fcb855bd",
+      "size": 2196194,
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/xaerominimap-forge-1.20.1-26.6.0.jar"
+    }
+  ]
+}
