@@ -14,7 +14,7 @@
       "file": "Blood N' Particles v1.4.0 - Forge 1.20.1.jar",
       "sha256": "061f6f14e8e541f2cb7182b53cf2476127d418d01e43c444a3c29ed457d2296b",
       "size": 850926,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Blood%20N'%20Particles%20v1.4.0%20-%20Forge%201.20.1.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Blood.N.Particles.v1.4.0.-.Forge.1.20.1.jar"
     },
     {
       "file": "classmod-1.6.0.jar",
@@ -32,13 +32,13 @@
       "file": "curios-forge-5.14.1+1.20.1.jar",
       "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
       "size": 398066,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/curios-forge-5.14.1+1.20.1.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/curios-forge-5.14.1%2B1.20.1.jar"
     },
     {
       "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
       "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920",
       "size": 402345,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
     },
     {
       "file": "entityculling-forge-1.10.5-mc1.20.1.jar",
@@ -56,7 +56,7 @@
       "file": "fzzy_config-0.7.6+1.20.1+forge.jar",
       "sha256": "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e",
       "size": 2374667,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/fzzy_config-0.7.6+1.20.1+forge.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/fzzy_config-0.7.6%2B1.20.1%2Bforge.jar"
     },
     {
       "file": "geckolib-forge-1.20.1-4.8.4.jar",
@@ -83,10 +83,10 @@
       "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/Ksyxis-1.4.3.jar"
     },
     {
-      "file": "mm_armor-1.1.0-forge-1.20.1 — копия.jar",
+      "file": "mm_armor-1.1.0-forge-1.20.1.jar",
       "sha256": "f9e401dfafb11353b21d78aebae73564447ba164b86da43ecdd72137be67d8e9",
       "size": 19489868,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/mm_armor-1.1.0-forge-1.20.1%20—%20копия.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/mm_armor-1.1.0-forge-1.20.1.jar"
     },
     {
       "file": "optileaves-1.20.x-1.2.jar",
@@ -98,7 +98,7 @@
       "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "size": 181437,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
     },
     {
       "file": "Saros-Player-Ragdoll-Forge-1.20.1-2.0.6.jar",
@@ -122,7 +122,7 @@
       "file": "starlight-1.1.2+forge.1cda73c.jar",
       "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
       "size": 110583,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/starlight-1.1.2+forge.1cda73c.jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/starlight-1.1.2%2Bforge.1cda73c.jar"
     },
     {
       "file": "superbwarfare-0.8.9.2-mc1.20.1-65d985a64-all.jar",
@@ -149,10 +149,10 @@
       "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/tl_skin_cape_forge_1.20_1.20.1-1.32.jar"
     },
     {
-      "file": "voicechat-forge-1.20.1-2.6.22 (1).jar",
+      "file": "voicechat-forge-1.20.1-2.6.22.jar",
       "sha256": "727d31c11905be6af05686c619dd62a1ed4e451c47670cf5e9804c1ac8871386",
       "size": 4923439,
-      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/voicechat-forge-1.20.1-2.6.22%20(1).jar"
+      "url": "https://github.com/MixMit3/LostFront-Launcher/releases/download/mods-v1/voicechat-forge-1.20.1-2.6.22.1.jar"
     },
     {
       "file": "walkietalkie-forge-1.20.1-1.3.0.jar",
